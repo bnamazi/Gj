@@ -1,0 +1,26 @@
+1.1 Anterior Mattress Suture
+1.2 Bleeding control event 
+1.3 New Instrument/Suture 
+1.4 Anterior Mattress Suture 
+1.5 Bleeding control event 
+1.6 New Instrument/Suture 
+1.7 Anterior Mattress Suture
+1.11 Tying Mattress
+1.11 Tying Mattress Suture
+1.12 Tying Mattress
+1.12 Tying Mattress Suture
+1.13 Tying Mattress
+1.13 Tying Mattress Suture
+2.1 Checking patency of duct with stent 
+2.2 Enterotomy 
+3.1 Posterior duct sutures 
+3.2 Bleeding control event 
+3.4 Anterior duct sutures 
+3.7 Running duct sutures 
+4.1 Anterior Buttress Suture 
+4.3 New Instrument/Suture 
+4.4 Anterior Buttress Suture 
+4.5 Bleeding control event 
+4.6 New Instrument/Suture 
+4.7 Anterior Buttress Suture 
+4.9 New Instrument/Suture 
